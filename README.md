@@ -1,5 +1,5 @@
-##### Template Triagule 
-# Escrito em Reactjs Hooks
+# Template Triagule 
+### Escrito em Reactjs Hooks
 
 ![Mockup](./public/mockup.png)
 
